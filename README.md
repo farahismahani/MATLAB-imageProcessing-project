@@ -1,4 +1,4 @@
- MATLAB Image Processing & Deep Learning Project
+MATLAB Image Processing & Deep Learning Project
 A MATLAB project covering image processing, object detection, and deep learning-based image enhancement. Developed as part of a group assignment.
 
 Project Overview  
@@ -46,7 +46,7 @@ Requirements
 ✅ Deep Learning Toolbox  
 
 Screenshots / GIFs  
-🖼️ GUI Interface PART A ![image](https://github.com/user-attachments/assets/02b804b9-61c4-4f96-82ec-ad6220de9bdf)
+🖼️ GUI Interface PART A <img width="362" alt="gui" src="https://github.com/user-attachments/assets/67110d04-cb60-44fd-8594-571685419a63" />
 
 🖼️ GUI Interface PART B ![image](https://github.com/user-attachments/assets/345923dd-e8e7-4708-be03-1d18e074e07c)
 
