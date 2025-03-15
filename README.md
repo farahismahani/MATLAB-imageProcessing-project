@@ -45,12 +45,18 @@ Requirements
 ✅ Image Processing Toolbox  
 ✅ Deep Learning Toolbox  
 
-Screenshots / GIFs  
-🖼️ GUI Interface PART A <img width="362" alt="gui" src="https://github.com/user-attachments/assets/67110d04-cb60-44fd-8594-571685419a63" />
 
-🖼️ GUI Interface PART B ![image](https://github.com/user-attachments/assets/345923dd-e8e7-4708-be03-1d18e074e07c)
+🖼️ GUI Interface PART A 
 
-🖼️ Output of Trained Multiscale CAN  ![image](https://github.com/user-attachments/assets/6047e325-e0a1-440c-8cc8-6ac44d44ef13)
+<img width="362" alt="gui" src="https://github.com/user-attachments/assets/67110d04-cb60-44fd-8594-571685419a63" />
+
+🖼️ GUI Interface PART B 
+
+![image](https://github.com/user-attachments/assets/345923dd-e8e7-4708-be03-1d18e074e07c)
+
+🖼️ Output of Trained Multiscale CAN  
+
+![image](https://github.com/user-attachments/assets/6047e325-e0a1-440c-8cc8-6ac44d44ef13)
 
 Developed by:  
 - farah ismahani
