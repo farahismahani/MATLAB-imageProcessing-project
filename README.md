@@ -48,11 +48,15 @@ Requirements
 
 🖼️ GUI Interface PART A 
 
-<img width="362" alt="gui" src="https://github.com/user-attachments/assets/67110d04-cb60-44fd-8594-571685419a63" />
+<img width="690" height="368" alt="Screenshot 2025-07-09 180917" src="https://github.com/user-attachments/assets/3dbd35b5-15e4-4222-8c3c-96bcc56dedf8" />
+<img width="555" height="502" alt="Screenshot 2025-07-09 180850" src="https://github.com/user-attachments/assets/e7d0b902-5d66-47ca-8a03-ea6ad00e565b" />
+
 
 🖼️ GUI Interface PART B 
 
 ![image](https://github.com/user-attachments/assets/345923dd-e8e7-4708-be03-1d18e074e07c)
+<img width="457" height="374" alt="Screenshot 2025-07-09 180937" src="https://github.com/user-attachments/assets/6c47ef67-6f7e-4449-aff5-ede9756e60d6" />
+
 
 🖼️ Output of Trained Multiscale CAN  
 
